@@ -1,7 +1,13 @@
-🛡️ ShieldGig — AI-Powered Parametric Income Insurance for Q-Commerce Delivery Partners
+# 🛡️ ShieldGig — AI-Powered Parametric Income Insurance for Q-Commerce Delivery Partners
 
 > **Guidewire DEVTrails 2026 | University Hackathon**
 > Protecting the last-mile warriors of India's instant delivery economy.
+
+---
+
+## System Architecture
+
+![System Architecture](architecture-diagram.png)
 
 ---
 
@@ -328,15 +334,12 @@ Before any trigger fires a payout:
 
 ```
 shieldgig/
-├── README.md                  ← This document
-├── frontend/                  ← React PWA (Partner + Admin UI)
-├── backend/                   ← Node.js API server
-├── ml-service/                ← Python FastAPI (Risk + Fraud models)
-├── mock-data/                 ← Simulated weather, platform, payment data
+├── README.md                    ← This document
+├── architecture-diagram.png     ← System architecture diagram
+├── ShieldGig_Prototype.jsx      ← React PWA prototype (Partner UI)
 ├── docs/
-│   ├── architecture.png       ← System architecture diagram
-│   └── prototype-screens/     ← UI wireframes / screenshots
-└── .github/workflows/         ← CI/CD pipelines
+│   └── prototype-screens/       ← UI wireframes / screenshots
+└── .github/workflows/           ← CI/CD pipelines (Phase 2+)
 ```
 
 ---
