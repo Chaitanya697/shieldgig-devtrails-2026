@@ -7,7 +7,7 @@
 
 ## System Architecture
 
-![System Architecture](architecture-diagram.png)
+![System Architecture](architecture diagram.png)
 
 ---
 
