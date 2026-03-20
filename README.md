@@ -346,7 +346,7 @@ shieldgig/
 
 ## 👥 Team
 
-> *[Add your team member names and roles here]*
+> *[Chaitanya Desai, Navya Raj, Manthan Hanchate, Akanksha Priya]*
 
 ---
 
